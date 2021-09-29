@@ -6,3 +6,5 @@
 * npm install
 * npm start
 
+สามารถ scan QRCode เพื่อเปิดแอพได้ ด้วยแอป Expo Download: https://expo.dev/client
+![alt text](https://github.com/yssamseng/Mobile-Reacte-Natve-Tree/blob/main/qrCodeExpoPublish.png?raw=true)
