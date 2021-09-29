@@ -3,8 +3,8 @@
 * โคลนโปรเจค git clone https://github.com/yssamseng/Mobile-Reacte-Natve-Tree.git หรือดาวน์โหลดไฟล์ .zip จากนั้นแตกไฟล์
 * เข้า cmd
   cd ไปยังโปรเจค cd Mobile-Reacte-Natve-Tree
-* npm install
-* npm start
+* npm install เพิ่อติดตั้งแพ็คเกจ Library ที่ใช้ในโปรเจคนี้
+* npm start เพื่อรันโปรเจค
 
 <div>สามารถ scan QRCode เพื่อเปิดแอพได้ ด้วยแอป Expo Download: https://expo.dev/client</div>
 
